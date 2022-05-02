@@ -21,4 +21,4 @@ I'm using a simple method to move the mouse by using user32 events and DirectX
 - Run `MW Tool.exe`
 
 ## Built By ihl
- 
+ - THE TOOL IS FOR EDUCATIONAL PURPOSES ONLY
