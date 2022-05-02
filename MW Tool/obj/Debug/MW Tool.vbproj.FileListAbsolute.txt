@@ -1,0 +1,13 @@
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.vbproj.AssemblyReference.cache
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW_Tool.Form1.resources
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW_Tool.Resources.resources
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.vbproj.GenerateResource.cache
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.vbproj.CoreCompileInputs.cache
+C:\Users\hani\source\repos\MW Tool\MW Tool\bin\Debug\MW Tool.exe.config
+C:\Users\hani\source\repos\MW Tool\MW Tool\bin\Debug\MW Tool.exe
+C:\Users\hani\source\repos\MW Tool\MW Tool\bin\Debug\MW Tool.pdb
+C:\Users\hani\source\repos\MW Tool\MW Tool\bin\Debug\MW Tool.xml
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.exe
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.xml
+C:\Users\hani\source\repos\MW Tool\MW Tool\obj\Debug\MW Tool.pdb
